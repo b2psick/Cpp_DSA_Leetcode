@@ -99,6 +99,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0645-set-mismatch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -160,6 +161,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0696-count-binary-substrings](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0696-count-binary-substrings) |
 | [1078-remove-outermost-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -279,6 +281,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0401-binary-watch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
@@ -458,4 +461,12 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
