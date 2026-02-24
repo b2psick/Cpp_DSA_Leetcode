@@ -402,6 +402,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1609-even-odd-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1609-even-odd-tree) |
 ## Design
 |  |
 | ------- |
@@ -435,6 +436,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1609-even-odd-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1609-even-odd-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -482,6 +484,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0623-add-one-row-to-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1302-deepest-leaves-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1609-even-odd-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1609-even-odd-tree) |
 ## Iterator
 |  |
 | ------- |
