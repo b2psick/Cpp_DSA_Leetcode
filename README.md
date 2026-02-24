@@ -396,6 +396,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -427,6 +428,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -461,6 +463,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Trie
@@ -473,6 +476,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Iterator
 |  |
