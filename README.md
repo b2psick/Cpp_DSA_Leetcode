@@ -390,6 +390,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -419,6 +420,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -436,6 +438,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0148-sort-list](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -451,6 +454,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0386-lexicographical-numbers) |
@@ -464,6 +468,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Iterator
 |  |
