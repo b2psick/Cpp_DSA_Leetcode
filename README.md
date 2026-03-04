@@ -77,6 +77,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -238,6 +239,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -380,6 +382,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0059-spiral-matrix-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Brainteaser
 |  |
