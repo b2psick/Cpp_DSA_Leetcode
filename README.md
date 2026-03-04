@@ -216,6 +216,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -296,6 +297,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0191-number-of-1-bits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -356,6 +358,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0050-powx-n](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Heap (Priority Queue)
 |  |
