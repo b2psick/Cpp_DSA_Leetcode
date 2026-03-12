@@ -151,6 +151,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2938-separate-black-and-white-balls](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
@@ -160,6 +161,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1448-maximum-69-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1448-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2938-separate-black-and-white-balls](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -187,6 +189,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2346-largest-3-same-digit-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2887-sort-vowels-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3462-vowels-game-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
