@@ -170,6 +170,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0299-bulls-and-cows) |
@@ -329,6 +330,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
