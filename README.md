@@ -541,6 +541,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0386-lexicographical-numbers) |
@@ -563,6 +564,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0542-01-matrix) |
 | [0623-add-one-row-to-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0623-add-one-row-to-tree) |
@@ -596,5 +598,10 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
