@@ -270,6 +270,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0874-walking-robot-simulation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2069-walking-robot-simulation-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -483,6 +484,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2069-walking-robot-simulation-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
