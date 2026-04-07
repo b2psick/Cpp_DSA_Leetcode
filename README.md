@@ -26,6 +26,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0033-search-in-rotated-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0047-permutations-ii) |
@@ -99,6 +100,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0001-two-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
@@ -420,6 +422,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0059-spiral-matrix-ii) |
