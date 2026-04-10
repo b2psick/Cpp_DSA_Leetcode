@@ -95,6 +95,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3546-equal-sum-grid-partition-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3039-apply-operations-to-make-string-empty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3713-longest-balanced-substring-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
