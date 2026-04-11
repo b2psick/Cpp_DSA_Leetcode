@@ -8,12 +8,8 @@ public:
         int ans=INT_MAX;
         for(auto it:mp){
             if(it.second.size()>=3){
-                vector<int> ok;
-                for(int i=0;i<it.second.size();i++){
-                    ok.push_back(it.second[i]);
-                }
-                for(int i=2;i<ok.size();i++){
-                    ans=min(ans,abs(ok[i-2]-ok[i-1])+abs(ok[i-1]-ok[i])+abs(ok[i]-ok[i-2]));
+                for(int i=2;i<it.second.size();i++){
+                    ans=min(ans,abs(it.second[i-2]-it.second[i-1])+abs(it.second[i-1]-it.second[i])+abs(it.second[i]-it.second[i-2]));
                 }
             }
         }
