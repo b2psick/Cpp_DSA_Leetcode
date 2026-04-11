@@ -1,14 +1,19 @@
 class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
-        int ans=INT_MAX;
+        unordered_map<int,vector<int>> mp;
         for(int i=0;i<nums.size();i++){
-            for(int j=i+1;j<nums.size();j++){
-                if(nums[j]!=nums[i]) continue;
-                for(int k=j+1;k<nums.size();k++){
-                    if(nums[k]==nums[j]){
-                        ans=min(ans,abs(i-j)+abs(j-k)+abs(k-i));
-                    }
+            mp[nums[i]].push_back(i);
+        }
+        int ans=INT_MAX;
+        for(auto it:mp){
+            if(it.second.size()>=3){
+                vector<int> ok;
+                for(int i=0;i<it.second.size();i++){
+                    ok.push_back(it.second[i]);
+                }
+                for(int i=2;i<ok.size();i++){
+                    ans=min(ans,abs(ok[i-2]-ok[i-1])+abs(ok[i-1]-ok[i])+abs(ok[i]-ok[i-2]));
                 }
             }
         }
