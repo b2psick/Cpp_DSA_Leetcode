@@ -43,6 +43,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0130-surrounded-regions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -318,6 +319,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0074-search-a-2d-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0367-valid-perfect-square) |
@@ -407,6 +409,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -417,6 +420,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
