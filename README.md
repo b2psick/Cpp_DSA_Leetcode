@@ -62,6 +62,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0645-set-mismatch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0811-subdomain-visit-count](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0874-walking-robot-simulation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
@@ -126,6 +127,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0645-set-mismatch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0811-subdomain-visit-count](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0874-walking-robot-simulation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -155,6 +157,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0811-subdomain-visit-count](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0811-subdomain-visit-count) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -213,6 +216,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0696-count-binary-substrings) |
+| [0811-subdomain-visit-count](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0811-subdomain-visit-count) |
 | [1078-remove-outermost-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
