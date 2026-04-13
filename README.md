@@ -70,6 +70,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1093-statistics-from-a-large-sample](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1127-last-stone-weight) |
+| [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -127,6 +128,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0692-top-k-frequent-words](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0874-walking-robot-simulation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -190,6 +192,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0011-container-with-most-water](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1448-maximum-69-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1448-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -250,6 +253,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0658-find-k-closest-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
+| [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -437,6 +441,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1127-last-stone-weight) |
+| [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 ## Quickselect
 |  |
 | ------- |
