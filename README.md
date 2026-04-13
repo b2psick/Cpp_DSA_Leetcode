@@ -78,6 +78,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1646-kth-missing-positive-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
