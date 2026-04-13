@@ -87,6 +87,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -132,6 +133,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2352-equal-row-and-column-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -294,6 +296,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2075-decode-the-slanted-ciphertext](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2352-equal-row-and-column-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
@@ -453,6 +456,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1582-special-positions-in-a-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2352-equal-row-and-column-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
