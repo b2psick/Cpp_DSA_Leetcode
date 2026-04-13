@@ -6,7 +6,6 @@ public:
         for(int i=heights.size()-1;i>=0;i--){
             bool flag=false;
             while(st.size()>0){
-                if(heights[i]==18) cout<<ok[i]<<endl;
                 if(!flag){
                     if(heights[st.top()]>heights[i]){
                         ok[i]++;
