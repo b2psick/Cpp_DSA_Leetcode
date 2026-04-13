@@ -510,6 +510,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0515-find-largest-value-in-each-tree-row](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0687-longest-univalue-path](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -547,6 +548,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0515-find-largest-value-in-each-tree-row](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0687-longest-univalue-path](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -590,6 +592,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0515-find-largest-value-in-each-tree-row](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0687-longest-univalue-path](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0785-is-graph-bipartite](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
