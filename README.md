@@ -238,6 +238,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2938-separate-black-and-white-balls) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -359,6 +360,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0401-binary-watch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -376,6 +378,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1009-complement-of-base-10-integer](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
 |  |
 | ------- |
