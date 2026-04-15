@@ -48,6 +48,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0216-combination-sum-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -424,6 +425,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0003-longest-substring-without-repeating-characters](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -456,6 +458,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -679,4 +682,12 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
