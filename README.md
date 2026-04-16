@@ -116,6 +116,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0001-two-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -213,6 +214,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0058-length-of-last-word) |
@@ -280,6 +282,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0007-reverse-integer](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0067-add-binary) |
