@@ -111,6 +111,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -308,6 +310,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2481-strictly-palindromic-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3830-find-closest-person](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
