@@ -4,6 +4,7 @@ public:
         vector<vector<int>> ok(heights.size(),vector<int>(heights[0].size(),INT_MAX));
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
         pq.push({0,0});
+        ok[0][0]=0;
         vector<pair<int,int>> dir({
             {1,0},{-1,0},{0,1},{0,-1}
         });
