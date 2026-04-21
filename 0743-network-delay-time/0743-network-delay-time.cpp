@@ -13,6 +13,7 @@ public:
             int node=pq.top().second;
             int wt=pq.top().first;
             pq.pop();
+            if(wt>dist[node]) continue;
             for(auto it:ok[node]){
                 if(wt+it.first<dist[it.second]){
                     dist[it.second]=wt+it.first;
