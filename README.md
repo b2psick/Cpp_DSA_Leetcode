@@ -106,6 +106,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -156,6 +157,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2352-equal-row-and-column-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-sum-of-distances](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -469,6 +471,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2615-sum-of-distances](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2615-sum-of-distances) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
