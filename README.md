@@ -497,6 +497,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0692-top-k-frequent-words](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1127-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -544,6 +545,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0118-pascals-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Game Theory
 |  |
@@ -655,6 +657,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0687-longest-univalue-path](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -681,6 +684,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -717,6 +721,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0210-course-schedule-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -740,4 +745,5 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
