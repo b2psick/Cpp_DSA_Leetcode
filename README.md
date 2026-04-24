@@ -182,6 +182,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0811-subdomain-visit-count](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0811-subdomain-visit-count) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2833-furthest-point-from-origin](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3713-longest-balanced-substring-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -260,6 +261,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2452-words-within-two-edits-of-dictionary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2887-sort-vowels-in-a-string) |
