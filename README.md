@@ -78,6 +78,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -522,6 +523,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0542-01-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -667,6 +669,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Trie
 |  |
@@ -695,6 +698,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1302-deepest-leaves-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1609-even-odd-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Iterator
@@ -720,6 +724,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0547-number-of-provinces](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
