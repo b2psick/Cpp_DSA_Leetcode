@@ -1,8 +1,5 @@
 class Solution {
 public:
-    // int solve(int n){
-    //     if(n <= 3) return n;
-    // }
     int integerBreak(int n) {
         // int ans=1;
         // if(n==2) return 1;
