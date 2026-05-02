@@ -318,6 +318,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0367-valid-perfect-square](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0788-rotated-digits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0788-rotated-digits) |
 | [1093-statistics-from-a-large-sample](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1093-statistics-from-a-large-sample) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -556,6 +557,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0542-01-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0788-rotated-digits) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
