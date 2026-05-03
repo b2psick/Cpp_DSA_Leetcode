@@ -88,7 +88,7 @@ public:
         }
         int a=0;
         for(int i=0;i<ans.parent.size()-1;i++){
-            if(ans.parent[i]==i) a++;
+            if(ans.findUPar(i)==i) a++;
         }
         return a-1;
     }
