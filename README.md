@@ -245,6 +245,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0796-rotate-string) |
 | [0811-subdomain-visit-count](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0811-subdomain-visit-count) |
 | [1078-remove-outermost-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -445,6 +446,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0796-rotate-string) |
 ## Segment Tree
 |  |
 | ------- |
