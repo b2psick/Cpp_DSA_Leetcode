@@ -90,6 +90,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -210,6 +211,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0658-find-k-closest-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1861-rotating-the-box) |
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -534,6 +536,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1582-special-positions-in-a-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1861-rotating-the-box](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
