@@ -212,6 +212,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0696-count-binary-substrings](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1861-rotating-the-box) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -227,6 +228,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1448-maximum-69-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2938-separate-black-and-white-balls](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2938-separate-black-and-white-balls) |
@@ -259,6 +261,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -443,6 +446,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## String Matching
 |  |
