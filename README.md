@@ -149,6 +149,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0692-top-k-frequent-words](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0811-subdomain-visit-count](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0874-walking-robot-simulation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -683,6 +684,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0785-is-graph-bipartite](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -742,6 +744,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0130-surrounded-regions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -756,6 +759,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0785-is-graph-bipartite](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
