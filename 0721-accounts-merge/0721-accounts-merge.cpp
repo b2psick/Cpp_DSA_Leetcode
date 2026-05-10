@@ -6,15 +6,13 @@ public:
         unordered_map<string,string> mp1;
         unordered_map<string,int> mp2;
         for(int i=0;i<accounts.size();i++){
-            for(int j=1;j<accounts[i].size();j++){
+            mp1[accounts[i][1]]=accounts[i][0];
+            mp2[accounts[i][1]]=0;
+            for(int j=2;j<accounts[i].size();j++){
                 mp1[accounts[i][j]]=accounts[i][0];
                 mp2[accounts[i][j]]=0;
-                for(int k=j;k<accounts[i].size();k++){
-                    if(k!=j){
-                        mp[accounts[i][j]].push_back(accounts[i][k]);
-                        mp[accounts[i][k]].push_back(accounts[i][j]);
-                    }
-                }
+                mp[accounts[i][j-1]].push_back(accounts[i][j]);
+                mp[accounts[i][j]].push_back(accounts[i][j-1]);
             }
         }
         queue<string> q;
