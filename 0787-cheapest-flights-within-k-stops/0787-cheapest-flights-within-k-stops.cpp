@@ -12,6 +12,7 @@ public:
         while(!pq.empty()){
             auto [wt,node,stop]=pq.top();
             pq.pop();
+            if(node==dst) return wt;
             if(stop>k) continue;
             if(dist[node][stop]<wt) continue;
             for(auto it:ok[node]){
@@ -25,6 +26,7 @@ public:
         for(int i=0;i<dist[dst].size();i++){
             min1=min(min1,dist[dst][i]);
         }
+        if(min1==INT_MAX) return -1;
         return min1;
     }
 };
