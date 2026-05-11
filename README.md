@@ -237,6 +237,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2938-separate-black-and-white-balls](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
@@ -273,6 +274,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -418,6 +420,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0401-binary-watch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -458,6 +461,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1944-number-of-visible-people-in-a-queue](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## String Matching
 |  |
 | ------- |
