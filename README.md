@@ -383,6 +383,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0367-valid-perfect-square) |
@@ -433,6 +434,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0090-subsets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0342-power-of-four) |
@@ -608,6 +610,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -647,6 +650,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0450-delete-node-in-a-bst) |
