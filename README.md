@@ -89,6 +89,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1631-path-with-minimum-effort](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -233,6 +234,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1448-maximum-69-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -311,6 +313,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2887-sort-vowels-in-a-string) |
