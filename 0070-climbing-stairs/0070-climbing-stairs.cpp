@@ -7,9 +7,18 @@ public:
         if(n>=2)
         vis[n]+=ok(n-2,vis);
         return vis[n];
-    }
+    } //memoization
+
     int climbStairs(int n) {
-        vector<int> vis(n+1,-1);
-        return ok(n,vis);
+        int a=1;
+        int b=1;
+        int c=1;
+        //tabulation with space optimization
+        for(int i=2;i<=n;i++){
+            c=a+b;
+            a=b;
+            b=c;
+        }
+        return c;
     }
 };
