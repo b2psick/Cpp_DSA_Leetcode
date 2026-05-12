@@ -11,9 +11,9 @@
  */
 class Solution {
 public:
-    int height(TreeNode* root){
+    int nodes(TreeNode* root){
         if(!root) return 1;
-        return 2*height(root->left);
+        return 2*nodes(root->left);
     }
     bool ok(TreeNode* root,int left,int right,int nodes,int mid){
         if(nodes==1&&!root) return false;
@@ -25,7 +25,7 @@ public:
         return ok(root->right,mid1+1,right,nodes/2,mid);
     }
     int countNodes(TreeNode* root) {
-        int h=height(root)/2;
+        int h=nodes(root)/2;
         int st=1;
         int ed=h;
         int ans=0;
