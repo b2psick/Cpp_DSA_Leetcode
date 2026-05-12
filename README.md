@@ -328,6 +328,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0050-powx-n](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0231-power-of-two) |
@@ -583,6 +584,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0343-integer-break](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0343-integer-break) |
 | [0542-01-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0542-01-matrix) |
@@ -827,4 +829,8 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
