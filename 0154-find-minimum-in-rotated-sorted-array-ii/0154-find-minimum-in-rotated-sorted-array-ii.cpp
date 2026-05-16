@@ -6,12 +6,13 @@ public:
         int min1=INT_MAX;
         while(st<=ed){
             int mid=st+(ed-st)/2;
+            min1=min(min1,nums[mid]);
             if(nums[mid]>nums[ed]){
                 st=mid+1;
             }else if(nums[mid]<nums[ed]){
-                ed=mid;
+                ed=mid-1;
             }else ed--;
         }
-        return nums[st];
+        return min1;
     }
 };
