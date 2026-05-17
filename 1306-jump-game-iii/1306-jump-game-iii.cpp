@@ -10,7 +10,6 @@ public:
         if(i-arr[i]>=0){
             if(ok(arr,i-arr[i],vis)) return true;
         }
-        vis[i]=false;
         return false;
     }
     bool canReach(vector<int>& arr, int start) {
