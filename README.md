@@ -117,6 +117,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -174,6 +175,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2352-equal-row-and-column-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2540-minimum-common-value](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2784-check-if-array-is-good](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -229,6 +231,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2540-minimum-common-value) |
 | [2938-separate-black-and-white-balls](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3643-flip-square-submatrix-vertically](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
@@ -409,6 +412,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1646-kth-missing-positive-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
