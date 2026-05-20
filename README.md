@@ -121,6 +121,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2553-separate-the-digits-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2653-sliding-subarray-beauty) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -178,6 +179,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2540-minimum-common-value](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2653-sliding-subarray-beauty) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -457,6 +459,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1009-complement-of-base-10-integer](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
 |  |
