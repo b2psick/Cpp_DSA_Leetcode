@@ -186,6 +186,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3488-closest-equal-element-queries](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -300,6 +301,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2887-sort-vowels-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3462-vowels-game-in-a-string) |
