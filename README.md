@@ -120,6 +120,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -533,6 +534,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2121-intervals-between-identical-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2121-intervals-between-identical-elements) |
+| [2574-left-and-right-sum-differences](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2615-sum-of-distances) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
