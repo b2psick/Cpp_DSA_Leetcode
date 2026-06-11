@@ -10,9 +10,7 @@ public:
         return 1+max1;
     }
     long long pow1(int a){
-        if(a<0) return 0;
         if(a==0) return 1;
-        if(a==1) return 2;
         if(a%2==0){
             long long b=pow1(a/2)%1000000007;
             return (b*b)%1000000007;
