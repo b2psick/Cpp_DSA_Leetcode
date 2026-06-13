@@ -108,6 +108,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2090-k-radius-subarray-averages](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2121-intervals-between-identical-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -177,6 +178,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2121-intervals-between-identical-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2121-intervals-between-identical-elements) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2336-smallest-number-in-infinite-set](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -654,6 +656,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1609-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Design
 |  |
@@ -695,6 +698,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1609-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Data Stream
 |  |
 | ------- |
