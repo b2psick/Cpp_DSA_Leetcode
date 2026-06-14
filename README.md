@@ -549,6 +549,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -710,6 +711,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0148-sort-list](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
