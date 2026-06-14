@@ -107,6 +107,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2078-two-furthest-houses-with-different-colors](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2090-k-radius-subarray-averages](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2121-intervals-between-identical-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2121-intervals-between-identical-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
@@ -239,6 +240,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1861-rotating-the-box) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -392,6 +394,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2069-walking-robot-simulation-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2352-equal-row-and-column-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
