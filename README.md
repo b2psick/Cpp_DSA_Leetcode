@@ -313,6 +313,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -401,6 +402,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2352-equal-row-and-column-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
