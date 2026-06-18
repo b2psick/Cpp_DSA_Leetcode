@@ -368,6 +368,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0523-continuous-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0788-rotated-digits) |
 | [1093-statistics-from-a-large-sample](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1093-statistics-from-a-large-sample) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1448-maximum-69-number) |
