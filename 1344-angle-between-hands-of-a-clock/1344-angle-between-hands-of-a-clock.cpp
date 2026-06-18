@@ -2,8 +2,8 @@ class Solution {
 public:
     double angleClock(int hour1, int minutes1) {
         double angle1;
-        float hour = hour1;
-        float minutes = minutes1;
+        float hour=hour1;
+        float minutes=minutes1;
         angle1=(hour*30)+(minutes/2);
         double angle2=(minutes*6);
         if(angle1>360) angle1=angle1-360;
