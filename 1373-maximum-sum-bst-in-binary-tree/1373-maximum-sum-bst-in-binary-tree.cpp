@@ -46,7 +46,6 @@ public:
             curr->right=right->right;
             curr->sum+=right->sum;
             ans=max(ans,curr->sum);
-            cout<<"ok1"<<endl;
             return curr;
         }else if(left&&!right){
             if(root->val<=left->right||!left->is){
@@ -57,7 +56,6 @@ public:
             curr->right=root->val;
             curr->sum+=left->sum;
             ans=max(ans,curr->sum);
-            cout<<"ok2"<<endl;
             return curr;
         }else{
             if(root->val<=left->right||root->val>=right->left||!left->is||!right->is){
@@ -69,8 +67,6 @@ public:
                 curr->sum+=left->sum;
                 curr->sum+=right->sum;
                 ans=max(ans,curr->sum);
-                cout<<"ok3"<<endl;
-                cout<<root->val<<endl;
                 return curr;
             }
         }
