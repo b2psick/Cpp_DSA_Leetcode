@@ -97,6 +97,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1840-maximum-building-height](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1861-rotating-the-box) |
@@ -342,6 +343,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1840-maximum-building-height](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2784-check-if-array-is-good](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -374,6 +376,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1446-angle-between-hands-of-a-clock](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1840-maximum-building-height](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1840-maximum-building-height) |
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
