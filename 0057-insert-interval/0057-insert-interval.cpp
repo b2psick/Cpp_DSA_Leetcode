@@ -1,9 +1,22 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& interval, vector<int>& newInterval) {
-        interval.push_back(newInterval);
+        int a=-1;
+        for(int i=0;i<interval.size();i++){
+            if(interval[i][0]>newInterval[0]){
+                a=i;
+                break;
+            }
+        }
+        if(a==-1) a=interval.size();
+        interval.insert(interval.begin()+a,newInterval);
+        for(auto it:interval){
+            for(auto it1:it){
+                cout<<it1<<" ";
+            }
+            cout<<endl;
+        }
         vector<vector<int>> ans;
-        sort(interval.begin(),interval.end());
         ans.push_back(interval[0]);
         for(int i=1;i<interval.size();i++){
             if(interval[i][0]<=ans.back()[1]){
