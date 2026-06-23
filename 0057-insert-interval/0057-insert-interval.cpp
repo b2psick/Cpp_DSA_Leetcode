@@ -10,12 +10,6 @@ public:
         }
         if(a==-1) a=interval.size();
         interval.insert(interval.begin()+a,newInterval);
-        for(auto it:interval){
-            for(auto it1:it){
-                cout<<it1<<" ";
-            }
-            cout<<endl;
-        }
         vector<vector<int>> ans;
         ans.push_back(interval[0]);
         for(int i=1;i<interval.size();i++){
