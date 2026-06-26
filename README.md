@@ -45,6 +45,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0216-combination-sum-iii) |
@@ -635,6 +636,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0070-climbing-stairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0343-integer-break) |
 | [0542-01-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
