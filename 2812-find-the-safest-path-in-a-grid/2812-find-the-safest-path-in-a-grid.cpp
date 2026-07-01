@@ -41,40 +41,66 @@ public:
             }
         }
         int ans=0;
-        while(st<=ed){
-            int mid=st+(ed-st)/2;
-            queue<int> q1;
-            vector<vector<int>> vis1(grid.size(),vector<int>(grid.size()));
-            q1.push(0);
-            vis1[0][0]=1;
-            bool h=false;
-            while(!q1.empty()){
-                int size=q1.size();
-                for(int k=0;k<size;k++){
-                    int i=q1.front()/grid.size();
-                    int j=q1.front()%grid.size();
-                    q1.pop();
-                    if(dis[i][j]<mid) continue;
-                    for(auto it:dir){
-                        int ni=i+it.first;
-                        int nj=j+it.second;
-                        if(ni<0||ni>=grid.size()||nj<0||nj>=grid.size()||vis1[ni][nj]||dis[ni][nj]<mid||grid[ni][nj]==1) continue;
-                        q1.push(ni*grid.size()+nj);
-                        vis1[ni][nj]=1;
-                        if(ni==grid.size()-1&&nj==grid.size()-1){
-                            h=true;
-                            break;
-                        }
-                    }
-                    if(h==true) break;
+        // while(st<=ed){
+        //     int mid=st+(ed-st)/2;
+        //     queue<int> q1;
+        //     vector<vector<int>> vis1(grid.size(),vector<int>(grid.size()));
+        //     q1.push(0);
+        //     vis1[0][0]=1;
+        //     bool h=false;
+        //     while(!q1.empty()){
+        //         int size=q1.size();
+        //         for(int k=0;k<size;k++){
+        //             int i=q1.front()/grid.size();
+        //             int j=q1.front()%grid.size();
+        //             q1.pop();
+        //             if(dis[i][j]<mid) continue;
+        //             for(auto it:dir){
+        //                 int ni=i+it.first;
+        //                 int nj=j+it.second;
+        //                 if(ni<0||ni>=grid.size()||nj<0||nj>=grid.size()||vis1[ni][nj]||dis[ni][nj]<mid||grid[ni][nj]==1) continue;
+        //                 q1.push(ni*grid.size()+nj);
+        //                 vis1[ni][nj]=1;
+        //                 if(ni==grid.size()-1&&nj==grid.size()-1){
+        //                     h=true;
+        //                     break;
+        //                 }
+        //             }
+        //             if(h==true) break;
+        //         }
+        //         if(h==true) break;
+        //     }
+        //     if(h==true){
+        //         st=mid+1;
+        //         ans=max(ans,mid);
+        //     }else ed=mid-1;d
+        // }
+        // return ans;
+
+        //prev was using binary search
+
+        //now using dikstra
+
+        priority_queue<pair<int,int>> pq;
+        vector<vector<int>> dis1(grid.size(),vector<int>(grid.size(),-1));
+        pq.push({dis[0][0],0});
+        while(!pq.empty()){
+            int i=pq.top().second/grid.size();
+            int j=pq.top().second%grid.size();
+            int val=pq.top().first;
+            pq.pop();
+            if(i==grid.size()-1&&j==grid.size()-1) return val;
+            for(auto it:dir){
+                int ni=i+it.first;
+                int nj=j+it.second;
+                if(ni<0||nj<0||ni>=grid.size()||nj>=grid.size()) continue;
+                int p=min(val,dis[ni][nj]);
+                if(dis1[ni][nj]<p){
+                    dis1[ni][nj]=p;
+                    pq.push({p,ni*grid.size()+nj});
                 }
-                if(h==true) break;
             }
-            if(h==true){
-                st=mid+1;
-                ans=max(ans,mid);
-            }else ed=mid-1;
         }
-        return ans;
+        return 0;
     }
 };
