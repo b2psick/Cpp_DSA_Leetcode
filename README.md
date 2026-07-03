@@ -143,6 +143,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3488-closest-equal-element-queries](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3620-network-recovery-pathways](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -456,6 +457,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2540-minimum-common-value](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3488-closest-equal-element-queries](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3620-network-recovery-pathways](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -602,6 +604,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2336-smallest-number-in-infinite-set](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Quickselect
 |  |
 | ------- |
@@ -662,6 +665,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Game Theory
 |  |
 | ------- |
@@ -885,6 +889,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
@@ -892,6 +897,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0210-course-schedule-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -912,6 +918,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Biconnected Component
 |  |
 | ------- |
