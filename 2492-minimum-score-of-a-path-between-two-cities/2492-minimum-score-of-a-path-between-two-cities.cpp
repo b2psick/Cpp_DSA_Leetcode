@@ -7,10 +7,8 @@ public:
             ok[it[1]-1].push_back({it[2],it[0]-1});
         }
         int min1=INT_MAX;
-        vector<int> vis(n);
         queue<int> q;
         q.push(0);
-        vis[0]=1;
         vector<int> dis(n,INT_MAX);
         dis[0]=0;
         while(!q.empty()){
