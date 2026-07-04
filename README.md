@@ -371,6 +371,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0012-integer-to-roman](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0070-climbing-stairs) |
@@ -652,6 +653,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0118-pascals-triangle) |
@@ -931,4 +933,8 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
