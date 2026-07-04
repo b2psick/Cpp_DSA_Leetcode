@@ -151,6 +151,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3905-multi-source-flood-fill](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Hash Table
 |  |
 | ------- |
@@ -640,6 +641,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3905-multi-source-flood-fill](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Brainteaser
 |  |
 | ------- |
@@ -846,6 +848,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3905-multi-source-flood-fill](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Iterator
 |  |
 | ------- |
