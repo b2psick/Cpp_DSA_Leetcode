@@ -25,9 +25,9 @@ public:
             for(int j=1;j<board[0].size();j++){
                 if(board[i][j]!='X'&&(dp[i-1][j]!=0||dp[i][j-1]!=0||dp[i-1][j-1]!=0)){
                     if(i==board.size()-1&&j==board[0].size()-1){
-                        dp[i][j]=max({dp[i-1][j],dp[i][j-1],dp[i-1][j-1]})%1000000007;
+                        dp[i][j]=max({dp[i-1][j],dp[i][j-1],dp[i-1][j-1]});
                     }else{
-                        dp[i][j]=((board[i][j]-'0')+max({dp[i-1][j],dp[i][j-1],dp[i-1][j-1]}))%1000000007;
+                        dp[i][j]=((board[i][j]-'0')+max({dp[i-1][j],dp[i][j-1],dp[i-1][j-1]}));
                     }
                 }
             }
@@ -53,7 +53,7 @@ public:
             } 
         }
         for(int i=1;i<board.size();i++){
-            for(int j=1;j<board.size();j++){
+            for(int j=1;j<board[0].size();j++){
                 if(board[i][j]=='S'){
                     if(dp[i-1][j]==dp[i][j]){
                         dp1[i][j]+=dp1[i-1][j]%1000000007;
