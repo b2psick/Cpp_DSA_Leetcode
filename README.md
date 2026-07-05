@@ -81,6 +81,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1093-statistics-from-a-large-sample](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1127-last-stone-weight) |
+| [1301-number-of-paths-with-max-score](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1306-jump-game-iii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1345-jump-game-iv) |
@@ -627,6 +628,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0827-making-a-large-island](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -665,6 +667,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0788-rotated-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
