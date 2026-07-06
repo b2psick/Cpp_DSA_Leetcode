@@ -81,6 +81,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1093-statistics-from-a-large-sample](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1127-last-stone-weight) |
+| [1288-remove-covered-intervals](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1306-jump-game-iii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -353,6 +354,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0692-top-k-frequent-words](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0721-accounts-merge) |
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
