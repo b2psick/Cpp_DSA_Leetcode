@@ -405,6 +405,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3830-find-closest-person) |
