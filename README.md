@@ -144,6 +144,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3488-closest-equal-element-queries](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3620-network-recovery-pathways](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -209,6 +210,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3121-count-the-number-of-special-characters-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3488-closest-equal-element-queries](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -463,6 +465,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2540-minimum-common-value](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3488-closest-equal-element-queries](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -887,6 +890,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1631-path-with-minimum-effort](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -904,6 +908,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
