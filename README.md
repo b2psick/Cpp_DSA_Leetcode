@@ -34,6 +34,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0054-spiral-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
@@ -630,6 +631,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0048-rotate-image](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0130-surrounded-regions) |
@@ -668,6 +670,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0118-pascals-triangle) |
