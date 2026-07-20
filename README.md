@@ -82,6 +82,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1093-statistics-from-a-large-sample](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1127-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1306-jump-game-iii) |
@@ -428,6 +429,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0657-robot-return-to-origin](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2069-walking-robot-simulation-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -644,6 +646,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0827-making-a-large-island](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
