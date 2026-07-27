@@ -9,22 +9,23 @@ public:
         }
         return count;
     }
-    void merge(vector<int>& arr, int left, int mid, int right, vector<int> aux) {
+    void merge(vector<int>& arr, int left, int mid, int right, vector<int>& aux) {
         int i = left;
         int j = mid + 1;
+        int k = left;
         while(i <= mid || j <= right) {
-            if(i >= mid + 1) aux.push_back(arr[j++]);
-            else if(j >= right+1) aux.push_back(arr[i++]);
-            else if(arr[i] <= arr[j]) aux.push_back(arr[i++]);
+            if(i >= mid + 1) aux[k++] = arr[j++];
+            else if(j >= right+1) aux[k++] = arr[i++];
+            else if(arr[i] <= arr[j]) aux[k++] = arr[i++];
             else {
-                aux.push_back(arr[j++]);
+                aux[k++] = arr[j++];
             }
         }
         for(int i = left; i <= right; i++) {
-            arr[i] = aux[i - left];
+            arr[i] = aux[i];
         }
     }
-    int mergeSort(vector<int>& arr, int left, int right, vector<int> aux) {
+    int mergeSort(vector<int>& arr, int left, int right, vector<int>& aux) {
         if(left >= right) return 0;
         int mid = left + (right - left) / 2;
         int count = 0;
@@ -37,7 +38,7 @@ public:
         return count;
     }
     int reversePairs(vector<int>& nums) {
-        vector<int> aux;
+        vector<int> aux(nums.size());
         return mergeSort(nums, 0, nums.size() - 1, aux);
     }
 };
