@@ -544,6 +544,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0020-valid-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -739,6 +740,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2069-walking-robot-simulation-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2069-walking-robot-simulation-ii) |
