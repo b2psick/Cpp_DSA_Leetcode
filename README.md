@@ -59,6 +59,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -461,6 +462,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0367-valid-perfect-square) |
+| [0493-reverse-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -490,6 +492,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0191-number-of-1-bits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
@@ -556,11 +559,13 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [2336-smallest-number-in-infinite-set](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
@@ -792,6 +797,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0493-reverse-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -976,4 +982,8 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
