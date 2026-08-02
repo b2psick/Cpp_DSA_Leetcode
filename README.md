@@ -60,6 +60,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0525-contiguous-array) |
@@ -407,6 +408,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0342-power-of-four](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0788-rotated-digits) |
@@ -626,6 +628,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0206-reverse-linked-list](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Heap (Priority Queue)
 |  |
@@ -707,6 +710,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0118-pascals-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0343-integer-break) |
+| [0486-predict-the-winner](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -720,6 +724,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
