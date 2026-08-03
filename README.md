@@ -77,6 +77,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0811-subdomain-visit-count](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0827-making-a-large-island](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0827-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0877-stone-game) |
 | [0907-koko-eating-bananas](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1020-number-of-enclaves](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -412,6 +413,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0507-perfect-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0877-stone-game) |
 | [1093-statistics-from-a-large-sample](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1093-statistics-from-a-large-sample) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -715,6 +717,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -725,6 +728,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
@@ -1011,4 +1015,12 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0493-reverse-pairs) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
