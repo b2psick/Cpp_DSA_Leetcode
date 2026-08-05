@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
+        
         unordered_set<int> set;
         vector<vector<int>> edges(n);
         vector<int> vis(n);
