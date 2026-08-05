@@ -33,6 +33,7 @@ public:
         for(int i = 0; i < n; i++) {
             if(!vis[i] && set.find(i) == set.end()) {
                 q.push(i);
+                vis[i] = 1;
             }
             while(!q.empty()) {
                 int front = q.front();
