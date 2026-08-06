@@ -433,6 +433,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2481-strictly-palindromic-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3462-vowels-game-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -552,6 +553,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [1291-sequential-digits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1291-sequential-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Counting Sort
