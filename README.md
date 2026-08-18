@@ -272,6 +272,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -378,6 +379,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -659,6 +661,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0023-merge-k-sorted-lists](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -788,6 +791,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0155-min-stack](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2069-walking-robot-simulation-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2336-smallest-number-in-infinite-set](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -830,6 +834,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
