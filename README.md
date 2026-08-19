@@ -94,6 +94,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1345-jump-game-iv) |
 | [1366-rank-teams-by-votes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1366-rank-teams-by-votes) |
+| [1386-cinema-seat-allocation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -203,6 +204,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1345-jump-game-iv](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1366-rank-teams-by-votes) |
+| [1386-cinema-seat-allocation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -296,6 +298,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0621-task-scheduler](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1338-reduce-array-size-to-the-half](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1386-cinema-seat-allocation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -560,6 +563,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0645-set-mismatch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
