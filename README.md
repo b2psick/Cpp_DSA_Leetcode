@@ -126,6 +126,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2090-k-radius-subarray-averages](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2121-intervals-between-identical-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -310,6 +311,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2938-separate-black-and-white-balls](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
