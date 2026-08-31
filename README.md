@@ -1077,4 +1077,5 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
