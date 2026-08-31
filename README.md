@@ -1073,4 +1073,8 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0149-max-points-on-a-line) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
