@@ -172,6 +172,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3838-weighted-word-mapping](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Hash Table
 |  |
@@ -659,6 +660,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3546-equal-sum-grid-partition-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3903-smallest-stable-index-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
 |  |
 | ------- |
