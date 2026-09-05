@@ -171,6 +171,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3905-multi-source-flood-fill) |
@@ -470,6 +471,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3783-mirror-distance-of-an-integer](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3830-find-closest-person) |
 | [3875-construct-uniform-parity-array-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
