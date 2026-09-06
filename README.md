@@ -183,6 +183,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0012-integer-to-roman](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -330,6 +331,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0058-length-of-last-word](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0071-simplify-path) |
+| [0127-word-ladder](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0299-bulls-and-cows) |
@@ -928,6 +930,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0111-minimum-depth-of-binary-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0207-course-schedule) |
@@ -1087,4 +1090,8 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0175-combine-two-tables](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0177-nth-highest-salary) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
