@@ -51,6 +51,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -756,6 +757,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0118-pascals-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0213-house-robber-ii) |
 | [0343-integer-break](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0542-01-matrix) |
