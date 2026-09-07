@@ -42,6 +42,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0088-merge-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0130-surrounded-regions) |
 | [0149-max-points-on-a-line](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -753,6 +754,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0064-minimum-path-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0486-predict-the-winner) |
