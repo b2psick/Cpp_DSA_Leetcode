@@ -1,21 +1,29 @@
 class Solution {
 public:
+    // void sub(vector<vector<int>>& ok,vector<int>& ok1,int a,vector<int> p){
+    //     ok.push_back(ok1);
+    //     for(int i=a;i<p.size();i++){
+    //         ok1.push_back(p[i]);
+    //         sub(ok,ok1,i+1,p);
+    //         ok1.pop_back();
+    //     }
+    // }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> hello;
-        vector<vector<int>> yo;
-        ok(yo,0,hello,nums);
-        int p=0;
-        return yo;
-    }
-    void ok(vector<vector<int>>& arr,int index,vector<int>& hello,vector<int>& arr1){
-        if(index==arr1.size()){
-            arr.push_back(hello);
-            return;
-        }
+        // vector<vector<int>> ok;
+        // vector<int> ok1;
+        // sub(ok,ok1,0,nums);
+        // return ok;
 
-        hello.push_back(arr1[index]);
-        ok(arr,index+1,hello,arr1);
-        hello.pop_back();
-        ok(arr,index+1,hello,arr1);
+        //using bit mani
+
+        vector<vector<int>> ans;
+        for(int i = 0; i < (1 << nums.size()); i++) {
+            vector<int> curr;
+            for(int j = 0; j < nums.size(); j++) {
+                if((i >> j) & 1) curr.push_back(nums[j]);
+            }
+            ans.push_back(curr);
+        }
+        return ans;
     }
 };
