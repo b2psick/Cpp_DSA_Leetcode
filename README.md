@@ -99,6 +99,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1366-rank-teams-by-votes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1463-cherry-pickup-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -723,6 +724,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1091-shortest-path-in-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1463-cherry-pickup-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -769,6 +771,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1301-number-of-paths-with-max-score](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1463-cherry-pickup-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
