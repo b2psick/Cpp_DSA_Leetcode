@@ -813,6 +813,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1609-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Design
 |  |
@@ -859,6 +860,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1609-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Data Stream
 |  |
 | ------- |
@@ -922,6 +924,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3310-remove-methods-from-project) |
