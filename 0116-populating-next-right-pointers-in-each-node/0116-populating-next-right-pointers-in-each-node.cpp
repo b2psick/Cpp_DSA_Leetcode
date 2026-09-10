@@ -21,15 +21,17 @@ public:
     Node* connect(Node* root) {
         queue<Node*> q;
         if(root) q.push(root);
-        while(!q.empty()){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                Node* a=q.front();
+        while(!q.empty()) {
+            int size = q.size();
+            Node* prev = nullptr;
+            for(int i = 0; i < size; i++) {
+                Node* a = q.front();
                 q.pop();
-                if(i!=size-1) a->next=q.front();
-                else a->next=nullptr;
+                if(!prev) prev = a;
+                else prev->next = a; 
                 if(a->left) q.push(a->left);
                 if(a->right) q.push(a->right);
+                prev = a;
             }
         }
         return root;
