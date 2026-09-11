@@ -161,6 +161,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -243,6 +244,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [3121-count-the-number-of-special-characters-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -592,6 +594,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1291-sequential-digits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1291-sequential-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Counting Sort
@@ -680,6 +683,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0342-power-of-four](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
