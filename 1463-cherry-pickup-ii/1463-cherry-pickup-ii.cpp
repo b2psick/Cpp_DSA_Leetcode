@@ -36,14 +36,15 @@ public:
 
         // tabulation
 
-        vector<vector<vector<int>>> dp(grid.size(), vector<vector<int>>(grid[0].size(), vector<int>(grid[0].size(), INT_MIN)));
+        vector<vector<int>> dp(grid[0].size(), vector<int>(grid[0].size(), INT_MIN));
+        vector<vector<int>> prev(grid[0].size(), vector<int>(grid[0].size(), INT_MIN));
         int ans = 0;
 
         for(int i = 0; i < grid.size(); i++) {
             if(i == 0) {
-                if(grid[0].size() == 1) dp[0][0][0] = grid[0][0];
-                else dp[0][0][grid[0].size() - 1] = grid[0][0] + grid[0][grid[0].size() - 1];
-                if(i == grid.size() - 1) ans = max(ans, dp[0][0][grid[0].size() - 1]);
+                if(grid[0].size() == 1) prev[0][0] = grid[0][0];
+                else prev[0][grid[0].size() - 1] = grid[0][0] + grid[0][grid[0].size() - 1];
+                if(i == grid.size() - 1) ans = max(ans, prev[0][grid[0].size() - 1]);
                 continue;
             }
             for(int j1 = 0; j1 < grid[0].size(); j1++) {
@@ -52,15 +53,16 @@ public:
                         for(int h = -1; h < 2; h++) {
                             if(j1 + k < 0 || j1 + k >= grid[0].size() || j2 + h < 0 || j2 + h >= grid[0].size()) continue;
                             if(j1 == j2) {
-                                dp[i][j1][j2] = max(dp[i][j1][j2], grid[i][j1] + dp[i - 1][j1 + k][j2 + h]); 
+                                dp[j1][j2] = max(dp[j1][j2], grid[i][j1] + prev[j1 + k][j2 + h]); 
                             }else {
-                                dp[i][j1][j2] = max(dp[i][j1][j2], grid[i][j1] + grid[i][j2] + dp[i - 1][j1 + k][j2 + h]); 
+                                dp[j1][j2] = max(dp[j1][j2], grid[i][j1] + grid[i][j2] + prev[j1 + k][j2 + h]); 
                             }
-                            ans = max(ans, dp[i][j1][j2]);
+                            ans = max(ans, dp[j1][j2]);
                         }
                     }
                 }
             }
+            prev = dp;
         }
 
         return ans;
